@@ -1,5 +1,3 @@
-# Rädda Marmorbruket
-
 ## Bakgrundsinformation
 Marmorbruket på Kolmården är hotat. Norrköpings kommun driver på för en försäljning
 av mark i Marmorbruket till en privat affärsman som uppger att han vill återuppta
