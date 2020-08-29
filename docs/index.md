@@ -38,3 +38,51 @@ Det är också märkligt att det brott som affärsmannen vill bryta marmor i är
 avdumpningsplats från den gamla industrin. Nu behövs ett stort lokalt engagemang för
 att få kommunen och de ansvariga politikerna att ta detta på allvar och agera på det sätt
 som lag och anständighet kräver. Rädda Marmorbruket!
+
+## Vad kan du göra?
+Vill du vara med och påverka Norrköpings kommun i detta beslut? Skicka gärna mail till samhällsbyggnadskontoret och/eller dess ledamöter.
+
+Nedan följer ett förslag på skrivning
+_Jag/vi skulle med detta mail vilja uttrycka min/vår oro kring den process som nu pågår
+avseende Fagervik 1:20 på Marmorbruket på Kolmården. Detta då kommunen inlett en
+detaljplaneprocess som syftar till att kunna sälja fastigheten till en affärsman som säger
+sig vilja återuppta marmorbrytning, trots negativ återkoppling från remissinstanser, trots
+protestlistor med ett hundratal namn, trots att fastigheten är inom Natura 2000- område
+och trots ett antal juridiska frågetecken bla. kring ägande av byggnader på tomten, och
+trots att det inte är klarlagt att en brytning är ekonomiskt eller praktiskt genomförbar. Vi
+bor i området och ser negativt på återupptagen marmorbrytning. Vi skulle dels själva
+påverkas negativt, bland annat i form av störningar, oljud, restprodukter från brytning och
+säkerhetsfrågor utifrån tung trafik i ett område med mycket barn, men även en stor
+mängd naturvandrare och andra som vill njuta av området skulle påverkas. Det bästa
+vore om kommunen kunde fortsätta som ägare och vara en aktiv part i att skydda
+områdets särskilda karaktär. Jag/vi har också med förvåning noterat att processen för
+tänkt försäljning görs med sikte på en specifik köpare utan möjlighet till
+konkurrensutsättning.
+Jag/vi vill gärna hållas informerade om utvecklingen och utgår ifrån att de boendes
+intressen kommer att tas tillvara fullt ut._
+
+### Lämpliga e-postadresser att skicka till
+**Samhällsbyggnadskontoret**
+samhallsbyggnadskontoret@norrkoping.se
+
+**Ledamöterna i samhällsplaneringsnämnden**
+reidar.svedahl@norrkoping.se,
+classe.noid@gmail.com,
+frey@telia.com,
+ingela.ekberg@hotmail.com,
+anna@edebo.se,
+jenny.lisiderius@kristdemokraterna.se,
+marcus.posada@vansterpartiet.se,
+inger.petersson@norrkoping.se,
+gfarm@telia.com,
+jonny.blix@hotmail.com,
+ola.j.hedin@norrkoping.se,
+isa74isa@gmail.com,
+hillerstromingemar@gmail.com,
+annicabraesch@hotmail.com,
+slobodan.jakolini@gmail.com,
+kj.jgroup@telia.com,
+vingvarv@gmail.com,
+krister.sund@yahoo.se  
+
+
