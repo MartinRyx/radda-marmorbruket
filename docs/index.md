@@ -68,6 +68,7 @@ intressen kommer att tas tillvara fullt ut._
 samhallsbyggnadskontoret@norrkoping.se
 
 **Ledamöterna i samhällsplaneringsnämnden**
+
 | Namn | E-post | Parti | Uppdrag |
 |:----|:---|:---|:---|
 | Reidar Svedahl | reidar.svedahl@norrkoping.se | L | Ordförande |
