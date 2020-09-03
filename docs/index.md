@@ -89,4 +89,5 @@ samhallsbyggnadskontoret@norrkoping.se
 | Ingvar Våxmo | vingvarv@gmail.com | SD | Ersättare |
 | Krister Sund | krister.sund@yahoo.se | SD | Ersättare |
 
-
+## Mer information
+[Kommunens sida om planen för Fagervik 1:20](https://www.norrkoping.se/boende-trafik-och-miljo/planer-och-byggprojekt/detaljplaner/fagervik-120-kolmarden.html)
