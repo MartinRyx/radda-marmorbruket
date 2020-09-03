@@ -43,22 +43,24 @@ som lag och anständighet kräver. Rädda Marmorbruket!
 Vill du vara med och påverka Norrköpings kommun i detta beslut? Skicka gärna mail till samhällsbyggnadskontoret och/eller dess ledamöter.
 
 Nedan följer ett förslag på skrivning
+
 _Jag/vi skulle med detta mail vilja uttrycka min/vår oro kring den process som nu pågår
 avseende Fagervik 1:20 på Marmorbruket på Kolmården. Detta då kommunen inlett en
 detaljplaneprocess som syftar till att kunna sälja fastigheten till en affärsman som säger
 sig vilja återuppta marmorbrytning, trots negativ återkoppling från remissinstanser, trots
 protestlistor med ett hundratal namn, trots att fastigheten är inom Natura 2000- område
 och trots ett antal juridiska frågetecken bla. kring ägande av byggnader på tomten, och
-trots att det inte är klarlagt att en brytning är ekonomiskt eller praktiskt genomförbar. Vi
-bor i området och ser negativt på återupptagen marmorbrytning. Vi skulle dels själva
+trots att det inte är klarlagt att en brytning är ekonomiskt eller praktiskt genomförbar._
+_Vi bor i området och ser negativt på återupptagen marmorbrytning. Vi skulle dels själva
 påverkas negativt, bland annat i form av störningar, oljud, restprodukter från brytning och
 säkerhetsfrågor utifrån tung trafik i ett område med mycket barn, men även en stor
 mängd naturvandrare och andra som vill njuta av området skulle påverkas. Det bästa
 vore om kommunen kunde fortsätta som ägare och vara en aktiv part i att skydda
 områdets särskilda karaktär. Jag/vi har också med förvåning noterat att processen för
 tänkt försäljning görs med sikte på en specifik köpare utan möjlighet till
-konkurrensutsättning.
-Jag/vi vill gärna hållas informerade om utvecklingen och utgår ifrån att de boendes
+konkurrensutsättning._
+
+_Jag/vi vill gärna hållas informerade om utvecklingen och utgår ifrån att de boendes
 intressen kommer att tas tillvara fullt ut._
 
 ### Lämpliga e-postadresser att skicka till
@@ -66,23 +68,25 @@ intressen kommer att tas tillvara fullt ut._
 samhallsbyggnadskontoret@norrkoping.se
 
 **Ledamöterna i samhällsplaneringsnämnden**
-reidar.svedahl@norrkoping.se,
-classe.noid@gmail.com,
-frey@telia.com,
-ingela.ekberg@hotmail.com,
-anna@edebo.se,
-jenny.lisiderius@kristdemokraterna.se,
-marcus.posada@vansterpartiet.se,
-inger.petersson@norrkoping.se,
-gfarm@telia.com,
-jonny.blix@hotmail.com,
-ola.j.hedin@norrkoping.se,
-isa74isa@gmail.com,
-hillerstromingemar@gmail.com,
-annicabraesch@hotmail.com,
-slobodan.jakolini@gmail.com,
-kj.jgroup@telia.com,
-vingvarv@gmail.com,
-krister.sund@yahoo.se  
+| Namn | E-post | Parti | Uppdrag |
+| - | - | - | - |
+| Reidar Svedahl | reidar.svedahl@norrkoping.se | L | Ordförande |
+| Claes Nöid | classe.noid@gmail.com | S | 1:e vice ordförande |
+| Christer Frey | frey@telia.com | M | :e vice ordförande |
+| Ingela Ekberg | ingela.ekberg@hotmail.com | S | Ledamot |
+| Anna Edemo | anna@edebo.se | C | Ledamot |
+| Jenny Lisiderius | jenny.lisiderius@kristdemokraterna.se | KD | Ledamot |
+| Marcus Posada | marcus.posada@vansterpartiet.se | C | Ledamot |
+| Inger Petersson | inger.petersson@norrkoping.se | S | Ledamot |
+| Göran Ferm | gfarm@telia.com | S | Ersättare |
+| Jonny Blix | jonny.blix@hotmail.com | S | Ersättare |
+| Ola J Hedin | ola.j.hedin@norrkoping.se | L | Ersättare |
+| Isa Isa | isa74isa@gmail.com | KD | Ersättare |
+| Ingemar Hillerström | hillerstromingemar@gmail.com | MP | Ersättare |
+| Annika Braesch-Andersen | annicabraesch@hotmail.com | V | Ersättare |
+| Slobodan Jakolini | slobodan.jakolini@gmail.com | M | Ersättare |
+| Krister Jansson | kj.jgroup@telia.com | M | Ersättare |
+| Ingvar Våxmo | vingvarv@gmail.com |  | Ersättare |
+| Krister Sund | krister.sund@yahoo.se   SD | Ersättare |
 
 
