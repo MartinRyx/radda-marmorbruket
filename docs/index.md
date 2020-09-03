@@ -39,6 +39,10 @@ avdumpningsplats från den gamla industrin. Nu behövs ett stort lokalt engagema
 att få kommunen och de ansvariga politikerna att ta detta på allvar och agera på det sätt
 som lag och anständighet kräver. Rädda Marmorbruket!
 
+## Fagervik 1:20
+Fastigheten försäljningen gäller är den som heter Fagervik 1:20 och där bl a Marmorbruksmusset ingår. På fastigheten står även skrivarstugan Tittut och utkiksplatsen där många hjälper oss att fira in våren i och med vårt populära valborgsmässofirande.
+![Fagervik](./assets/img/Fagercik-1-20.png)
+
 ## Vad kan du göra?
 Vill du vara med och påverka Norrköpings kommun i detta beslut? Skicka gärna mail till samhällsbyggnadskontoret och/eller dess ledamöter.
 
