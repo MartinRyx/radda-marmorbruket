@@ -71,24 +71,24 @@ samhallsbyggnadskontoret@norrkoping.se
 
 | Namn | E-post | Parti | Uppdrag |
 |:----|:---|:---|:---|
-| Reidar Svedahl | [reidar.svedahl@norrkoping.se](reidar.svedahl@norrkoping.se) | L | Ordförande |
+| Reidar Svedahl | [reidar.svedahl@norrkoping.se](mailto:reidar.svedahl@norrkoping.se) | L | Ordförande |
 | Claes Nöid | [classe.noid@gmail.com](mailto:classe.noid@gmail.com) | S | 1:e vice ordförande |
-| Christer Frey | frey@telia.com | M | :e vice ordförande |
-| Ingela Ekberg | ingela.ekberg@hotmail.com | S | Ledamot |
-| Anna Edemo | anna@edebo.se | C | Ledamot |
-| Jenny Lisiderius | jenny.lisiderius@kristdemokraterna.se | KD | Ledamot |
-| Marcus Posada | marcus.posada@vansterpartiet.se | C | Ledamot |
-| Inger Petersson | inger.petersson@norrkoping.se | S | Ledamot |
-| Göran Ferm | gfarm@telia.com | S | Ersättare |
-| Jonny Blix | jonny.blix@hotmail.com | S | Ersättare |
-| Ola J Hedin | ola.j.hedin@norrkoping.se | L | Ersättare |
-| Isa Isa | isa74isa@gmail.com | KD | Ersättare |
-| Ingemar Hillerström | hillerstromingemar@gmail.com | MP | Ersättare |
-| Annika Braesch-Andersen | annicabraesch@hotmail.com | V | Ersättare |
-| Slobodan Jakolini | slobodan.jakolini@gmail.com | M | Ersättare |
-| Krister Jansson | kj.jgroup@telia.com | M | Ersättare |
-| Ingvar Våxmo | vingvarv@gmail.com | SD | Ersättare |
-| Krister Sund | krister.sund@yahoo.se | SD | Ersättare |
+| Christer Frey | [frey@telia.com](mailto:frey@telia.com) | M | :e vice ordförande |
+| Ingela Ekberg | [ingela.ekberg@hotmail.com](mailto:ingela.ekberg@hotmail.com) | S | Ledamot |
+| Anna Edemo | [anna@edebo.se](mailto:anna@edebo.se) | C | Ledamot |
+| Jenny Lisiderius | [jenny.lisiderius@kristdemokraterna.se](mailto:jenny.lisiderius@kristdemokraterna.se) | KD | Ledamot |
+| Marcus Posada | [marcus.posada@vansterpartiet.se](mailto:marcus.posada@vansterpartiet.se) | C | Ledamot |
+| Inger Petersson | [inger.petersson@norrkoping.se](mailto:inger.petersson@norrkoping.se) | S | Ledamot |
+| Göran Ferm | [gfarm@telia.com](mailto:gfarm@telia.com) | S | Ersättare |
+| Jonny Blix | [jonny.blix@hotmail.com](mailto:jonny.blix@hotmail.com) | S | Ersättare |
+| Ola J Hedin | [ola.j.hedin@norrkoping.se](mailto:ola.j.hedin@norrkoping.se) | L | Ersättare |
+| Isa Isa | [isa74isa@gmail.com](mailto:isa74isa@gmail.com) | KD | Ersättare |
+| Ingemar Hillerström | [hillerstromingemar@gmail.com](mailto:hillerstromingemar@gmail.com) | MP | Ersättare |
+| Annika Braesch-Andersen | [annicabraesch@hotmail.com](mailto:annicabraesch@hotmail.com) | V | Ersättare |
+| Slobodan Jakolini | [slobodan.jakolini@gmail.com](mailto:slobodan.jakolini@gmail.com) | M | Ersättare |
+| Krister Jansson | [kj.jgroup@telia.com](mailto:kj.jgroup@telia.com) | M | Ersättare |
+| Ingvar Våxmo | [vingvarv@gmail.com](mailto:vingvarv@gmail.com) | SD | Ersättare |
+| Krister Sund | [krister.sund@yahoo.se](mailto:krister.sund@yahoo.se) | SD | Ersättare |
 
 ## Mer information
 [Kommunens sida om planen för Fagervik 1:20](https://www.norrkoping.se/boende-trafik-och-miljo/planer-och-byggprojekt/detaljplaner/fagervik-120-kolmarden.html)
