@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-#forkme_banner {
+#forkme_banner, #footer_wrap {
   display: none;
   visibility: hidden;
 }
+
