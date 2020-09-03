@@ -78,7 +78,7 @@ samhallsbyggnadskontoret@norrkoping.se
 |:----|:---|:---|:---|
 | Reidar Svedahl | [reidar.svedahl@norrkoping.se](mailto:reidar.svedahl@norrkoping.se) | L | Ordförande |
 | Claes Nöid | [classe.noid@gmail.com](mailto:classe.noid@gmail.com) | S | 1:e vice ordförande |
-| Christer Frey | [frey@telia.com](mailto:frey@telia.com) | M | :e vice ordförande |
+| Christer Frey | [frey@telia.com](mailto:frey@telia.com) | M | 2:e vice ordförande |
 | Ingela Ekberg | [ingela.ekberg@hotmail.com](mailto:ingela.ekberg@hotmail.com) | S | Ledamot |
 | Anna Edemo | [anna@edebo.se](mailto:anna@edebo.se) | C | Ledamot |
 | Jenny Lisiderius | [jenny.lisiderius@kristdemokraterna.se](mailto:jenny.lisiderius@kristdemokraterna.se) | KD | Ledamot |
