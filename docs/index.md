@@ -69,7 +69,7 @@ samhallsbyggnadskontoret@norrkoping.se
 
 **Ledamöterna i samhällsplaneringsnämnden**
 | Namn | E-post | Parti | Uppdrag |
-| - | - | - | - |
+|:----|:---|:---|:---|
 | Reidar Svedahl | reidar.svedahl@norrkoping.se | L | Ordförande |
 | Claes Nöid | classe.noid@gmail.com | S | 1:e vice ordförande |
 | Christer Frey | frey@telia.com | M | :e vice ordförande |
