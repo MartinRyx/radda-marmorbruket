@@ -86,7 +86,7 @@ samhallsbyggnadskontoret@norrkoping.se
 | Annika Braesch-Andersen | annicabraesch@hotmail.com | V | Ersättare |
 | Slobodan Jakolini | slobodan.jakolini@gmail.com | M | Ersättare |
 | Krister Jansson | kj.jgroup@telia.com | M | Ersättare |
-| Ingvar Våxmo | vingvarv@gmail.com |  | Ersättare |
-| Krister Sund | krister.sund@yahoo.se   SD | Ersättare |
+| Ingvar Våxmo | vingvarv@gmail.com | SD | Ersättare |
+| Krister Sund | krister.sund@yahoo.se | SD | Ersättare |
 
 
